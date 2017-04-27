@@ -8,4 +8,4 @@ $ npm install
 ```
 
 ### Examples
-1. [Basic Express Hot Loading] [/examples/basic-express]
+1. [Basic Express Hot Loading](/examples/basic-express)
