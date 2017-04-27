@@ -2,6 +2,9 @@ const webpack = require('webpack');
 
 module.exports = {
   entry: {
+    windowVars: [
+      './mocks/window.js'
+    ],
     app: [
       'webpack-hot-middleware/client?reload=true',
       './app/index.jsx'
